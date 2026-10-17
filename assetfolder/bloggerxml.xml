@@ -1,0 +1,2724 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateUrl='indie.xml' b:templateVersion='1.3.0' expr:dir='data:blog.languageDirection' lang='mr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+
+<head>
+<meta charset='UTF-8'/>
+<meta content='width=device-width, initial-scale=1, viewport-fit=cover' name='viewport'/>
+<meta content='#0c0a10' name='theme-color'/>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+
+<!-- Primary SEO Title & Meta Tags -->
+<title>उम&#2366;भरत न&#2367;त&#2381;य गर&#2381;भस&#2306;व&#2366;द | Garbh Samvad, Garbh Sanskar &amp; Child Development by Bharat Rasve</title>
+<meta content='उमाभरत नित्य गर्भसंवाद | Garbh Samvad, Garbh Sanskar &amp; Child Development by Bharat Rasve' name='title'/>
+<meta content='उमाभरत नित्य गर्भसंवाद (UmaBharat Nitya Garbh Samvad) by Bharat Rasve &amp; Urmila Bharat Rasve. २४० अध्यायांचा परिपूर्ण गर्भसंस्कार संच: आई, बाबा व पालक संवाद, पौराणिक व ऐतिहासिक बोधकथा, सार्थ वैदिक मंत्र, संस्कार व मूल्यशिक्षण आणि ऑडिओ पठण (TTS).' name='description'/>
+<meta content='गर्भसंवाद, उमाभरत नित्य गर्भसंवाद, गर्भसंस्कार, भरत रासवे, उर्मिला भरत रासवे, भारतीय संस्कृती, संस्कार शिक्षण, गर्भवती वाचन, बालविकास, मूल्यशिक्षण, वैदिक मंत्र, पसायदान, Garbh Samvad in Marathi, Garbh Sanskar Audio, Prenatal Care India' name='keywords'/>
+<meta content='Bharat Rasve (भरत रासवे), Urmila Bharat Rasve (उर्मिला भरत रासवे)' name='author'/>
+<meta content='Bharat Rasve' name='creator'/>
+<meta content='उमाभरत प्रकाशन / Bharat Rasve' name='publisher'/>
+<meta content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' name='robots'/>
+<meta content='mr, hi, en-IN' http-equiv='content-language'/>
+
+<!-- Canonical URL -->
+<link expr:href='data:blog.canonicalUrl' rel='canonical'/>
+<link expr:href='data:blog.homepageUrl' hreflang='mr-IN' rel='alternate'/>
+
+<!-- Open Graph / WhatsApp Meta Tags -->
+<meta content='website' property='og:type'/>
+<meta expr:content='data:blog.canonicalUrl' property='og:url'/>
+<meta content='उमाभरत नित्य गर्भसंवाद | Garbh Samvad, Garbh Sanskar &amp; Child Development - Bharat Rasve' property='og:title'/>
+<meta content='आई, बाबा, संयुक्त पालक संवाद, बोधकथा, वैदिक मंत्र आणि संस्कार या ६ अंगांचा २४० अध्यायांचा परिपूर्ण गर्भसंवाद ग्रंथ व ऑडिओ पठण.' property='og:description'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLNTYaKH4ovbQhw8thTCwps74ZHR5KcQdfvFxilu2OvIkJ4lSYna7FMvyH3tU8vXLCvEqKxs5RAZpQ4XOc5P-jTeWHXhtdC3wgMK7zbm2LREbfW0nJ0SvKI61T2one6oquv5w2oXtK31OVIdvmE4N4qlV05gMymXdrijlaM67ca_GjvrbtG5GjqQf88BZz/s1600/dark%20garbhs%20Gradient%20Lotus%20fevicon.png' property='og:image'/>
+
+<!-- Google Devanagari Fonts -->
+<link href='https://fonts.googleapis.com' rel='preconnect'/>
+<link crossorigin='crossorigin' href='https://fonts.gstatic.com' rel='preconnect'/>
+<link href='https://fonts.googleapis.com/css2?family=Hind:wght@500;600;700&amp;family=Noto+Sans+Devanagari:wght@400;500;600;700&amp;family=Noto+Serif+Devanagari:wght@400;600;700&amp;family=Rozha+One&amp;family=Tiro+Devanagari+Marathi:ital@0;1&amp;display=swap' rel='stylesheet'/>
+
+<!-- Font Awesome 6 Icons -->
+<link crossorigin='anonymous' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' referrerpolicy='no-referrer' rel='stylesheet'/>
+
+<!-- React 18 & Babel Standalone -->
+<script crossorigin='crossorigin' src='https://unpkg.com/react@18/umd/react.production.min.js'/>
+<script crossorigin='crossorigin' src='https://unpkg.com/react-dom@18/umd/react-dom.production.min.js'/>
+
+<b:skin><![CDATA[
+/* Hide Blogger chrome */
+#navbar, #navbar-iframe, #Navbar1, .Navbar, .widget, .blog-posts, .blog-pager, .blog-feeds, .post-outer {
+  display: none !important;
+}
+
+:root {
+  --bg: #0c0a10;
+  --paper: #15111c;
+  --text: #f8f3eb;
+  --text-muted: #a39ca2;
+  --accent-rose: #ec467a;
+  --accent-violet: #ba8ce0;
+  --accent-gold: #e2ba6f;
+  --accent-green: #7ecba1;
+  --accent-saffron: #f4a261;
+  --accent-teal: #48cae4;
+  --line: rgba(255, 255, 255, 0.12);
+  --radius: 20px;
+
+  --active-accent: var(--accent-rose);
+  --active-glow: rgba(236, 70, 122, 0.25);
+  --active-text-dark: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Noto Sans Devanagari", sans-serif;
+  overflow: hidden;
+}
+
+body {
+  background:
+    radial-gradient(circle at 50% -10%, var(--active-glow), transparent 45%),
+    radial-gradient(circle at 95% 90%, rgba(130, 80, 120, 0.12), transparent 40%),
+    var(--bg);
+  transition: background 400ms ease;
+}
+
+.app {
+  width: 100%;
+  height: 100dvh;
+  display: flex;
+  justify-content: center;
+  padding: max(4px, env(safe-area-inset-top)) 10px max(6px, env(safe-area-inset-bottom));
+  overflow: hidden;
+  position: relative;
+}
+
+.shell {
+  width: min(720px, 100%);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px;
+  min-height: 0;
+}
+
+/* TOPBAR */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 2px 2px;
+  flex-shrink: 0;
+}
+
+.brand-horizontal {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  cursor: pointer;
+}
+
+.brand-logo-img {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  display: inline-block;
+  flex: 0 0 auto;
+  filter: drop-shadow(0 2px 8px var(--active-glow));
+}
+
+.brand-inline-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 0;
+}
+
+.brand-inline-text h1 {
+  margin: 0;
+  font-family: "Rozha One", serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 1.1;
+  background: linear-gradient(135deg, #f9a8c2 0%, var(--active-accent) 50%, #9c1b44 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 300ms ease;
+}
+
+.brand-inline-text h2 {
+  margin: 1px 0 0 0;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.01em;
+  line-height: 1.1;
+}
+
+.header-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex: 0 0 auto;
+}
+
+/* AUDIO TTS BUTTON IN HEADER */
+.header-tts-btn {
+  height: 30px;
+  padding: 0 10px;
+  border-radius: 99px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--active-accent);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 200ms ease;
+  font-family: "Noto Sans Devanagari", sans-serif;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  white-space: nowrap;
+}
+
+.header-tts-btn.playing {
+  background: var(--active-accent);
+  color: var(--active-text-dark);
+  border-color: var(--active-accent);
+  box-shadow: 0 0 16px var(--active-glow);
+  animation: pulse-glow 2s infinite ease-in-out;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 12px var(--active-glow); }
+  50% { box-shadow: 0 0 24px var(--active-glow); }
+}
+
+/* FONT SIZE CONTROLLER IN HEADER */
+.header-font-resizer {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--line);
+  border-radius: 99px;
+  padding: 1px;
+}
+
+.header-font-btn {
+  width: 24px;
+  height: 26px;
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 150ms ease;
+}
+
+.header-font-btn:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.header-day-counter {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--active-accent);
+  background: rgba(255, 255, 255, 0.04);
+  padding: 3px 9px;
+  border-radius: 99px;
+  border: 1px solid var(--line);
+  font-family: "Noto Sans Devanagari", sans-serif;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.header-day-counter:hover {
+  background: rgba(255, 255, 255, 0.09);
+  border-color: var(--active-accent);
+}
+
+.header-share-btn {
+  width: 30px;
+  height: 30px;
+  min-width: 30px;
+  min-height: 30px;
+  padding: 0;
+  border: none;
+  border-radius: 8px;
+  background: var(--active-accent);
+  color: var(--active-text-dark);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.82rem;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 3px 12px var(--active-glow);
+  transition: all 180ms ease;
+}
+
+.header-share-btn:active {
+  transform: scale(0.91);
+}
+
+/* COMPACT TABS */
+.tabs-wrapper {
+  position: relative;
+  width: 100%;
+  margin: 1px 0 2px 0;
+  flex-shrink: 0;
+}
+
+.tabs-container {
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid var(--line);
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  gap: 5px;
+  align-items: flex-end;
+  padding-bottom: 0;
+}
+
+.tabs-container::-webkit-scrollbar {
+  display: none;
+}
+
+.tab-btn {
+  flex: 1;
+  min-width: max-content;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--line);
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
+  color: var(--text-muted);
+  padding: 5px 10px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 180ms ease;
+  font-family: "Noto Sans Devanagari", sans-serif;
+  touch-action: manipulation;
+  line-height: 1.15;
+}
+
+.tab-btn.active {
+  color: var(--active-text-dark);
+  font-weight: 800;
+  background: var(--active-accent);
+  border: 1px solid var(--active-accent);
+  border-bottom: none;
+  box-shadow: 0 -2px 10px var(--active-glow);
+}
+
+/* PROGRESS BAR */
+.progress-bar-wrap {
+  width: 100%;
+  padding: 0;
+  margin-top: 1px;
+  flex-shrink: 0;
+}
+
+.progress-track {
+  width: 100%;
+  height: 2.5px;
+  border-radius: 99px;
+  background: rgba(255, 255, 255, 0.05);
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--active-accent), #ffffff);
+  transition: width 300ms ease, background 300ms ease;
+}
+
+/* MAIN BOOK READER */
+.book-reader {
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  border-top: 2px solid var(--active-accent);
+  border-bottom: 2px solid var(--active-accent);
+  background: linear-gradient(180deg, rgba(23, 18, 30, 0.96) 0%, rgba(16, 12, 22, 0.98) 100%);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.6), 0 0 20px var(--active-glow);
+  overflow: hidden;
+  transition: border-color 300ms ease, box-shadow 300ms ease;
+}
+
+.book-reader-watermark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: min(280px, 60vw);
+  height: min(280px, 60vw);
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLNTYaKH4ovbQhw8thTCwps74ZHR5KcQdfvFxilu2OvIkJ4lSYna7FMvyH3tU8vXLCvEqKxs5RAZpQ4XOc5P-jTeWHXhtdC3wgMK7zbm2LREbfW0nJ0SvKI61T2one6oquv5w2oXtK31OVIdvmE4N4qlV05gMymXdrijlaM67ca_GjvrbtG5GjqQf88BZz/s1600/dark%20garbhs%20Gradient%20Lotus%20fevicon.png') no-repeat center center;
+  background-size: contain;
+  opacity: 0.055;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.book-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 10px 16px;
+  background: rgba(23, 18, 30, 0.94);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.chapter-title {
+  margin: 0;
+  padding: 0;
+  font-family: "Hind", "Noto Sans Devanagari", sans-serif;
+  font-size: clamp(0.96rem, 3.4vw, 1.15rem);
+  font-weight: 700;
+  color: #fffdfa;
+  line-height: 1.25;
+  text-align: left;
+}
+
+/* AUDIO PROGRESS INDICATOR IN HEADER */
+.audio-live-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--active-accent);
+  background: rgba(255, 255, 255, 0.05);
+  padding: 3px 8px;
+  border-radius: 99px;
+  border: 1px solid var(--active-accent);
+  white-space: nowrap;
+}
+
+.book-body {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 14px 16px 20px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+  touch-action: pan-y;
+  position: relative;
+}
+
+.book-body::-webkit-scrollbar {
+  width: 4px;
+}
+
+.book-body::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+}
+
+.prose-content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  z-index: 2;
+}
+
+/* Paragraph with audio highlight */
+.book-paragraph {
+  margin: 0;
+  font-family: "Noto Serif Devanagari", serif;
+  font-size: clamp(0.92rem, 3.5vw, 1.04rem);
+  font-weight: 400;
+  line-height: 1.88;
+  color: #ede5de;
+  text-align: justify;
+  text-justify: inter-word;
+  letter-spacing: 0.012em;
+  white-space: pre-line;
+  border-radius: 10px;
+  padding: 4px 6px;
+  transition: all 250ms ease;
+  position: relative;
+}
+
+.book-paragraph.tts-active {
+  background: rgba(255, 255, 255, 0.06);
+  border-left: 3px solid var(--active-accent);
+  color: #ffffff;
+  box-shadow: 0 0 16px var(--active-glow);
+}
+
+.book-paragraph:first-of-type::first-letter {
+  font-family: "Noto Serif Devanagari", serif;
+  font-size: 2rem;
+  font-weight: 700;
+  float: left;
+  line-height: 1;
+  margin-right: 8px;
+  color: var(--active-accent);
+}
+
+.mantra-verse-card {
+  margin: 12px 0 14px 0;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.02);
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  transition: all 250ms ease;
+}
+
+.mantra-verse-card.tts-active {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid var(--active-accent);
+  box-shadow: 0 0 18px var(--active-glow);
+}
+
+.mantra-verse-title {
+  font-family: "Hind", "Noto Sans Devanagari", sans-serif;
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--active-accent);
+  margin-bottom: 6px;
+  letter-spacing: 0.02em;
+  display: block;
+}
+
+.mantra-verse-line {
+  font-family: "Noto Serif Devanagari", serif;
+  font-size: clamp(0.95rem, 3.6vw, 1.06rem);
+  font-weight: 700;
+  line-height: 1.9;
+  color: var(--active-accent);
+  letter-spacing: 0.02em;
+  display: block;
+}
+
+.mantra-verse-empty {
+  height: 8px;
+  display: block;
+}
+
+.mantra-content-header {
+  margin-top: 16px;
+  margin-bottom: 6px;
+  font-family: "Hind", "Noto Sans Devanagari", sans-serif;
+  font-size: 1.04rem;
+  font-weight: 700;
+  color: var(--active-accent);
+  display: block;
+  letter-spacing: 0.02em;
+}
+
+.sanskar-line {
+  margin: 4px 0;
+  padding-left: 10px;
+  border-left: 2px solid var(--active-accent);
+  color: #f8f3eb;
+}
+
+.closing-mantra-box {
+  margin-top: 18px;
+  padding: 6px 4px;
+  background: transparent;
+  border: none;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.closing-text {
+  font-family: "Tiro Devanagari Marathi", serif;
+  font-size: 0.95rem;
+  color: var(--active-accent);
+  line-height: 1.5;
+  margin: 0;
+  letter-spacing: 0.02em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+/* BOTTOM NAV */
+.bottom-nav {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 6px 4px;
+  margin-bottom: 0;
+  flex-shrink: 0;
+}
+
+.nav-btn {
+  width: 32px;
+  height: 32px;
+  min-width: 32px;
+  min-height: 32px;
+  border: 1px solid var(--active-accent);
+  border-radius: 50%;
+  background: linear-gradient(135deg, rgba(255,255,255,0.07), rgba(255,255,255,0.02));
+  color: #ffffff;
+  box-shadow: 0 4px 16px var(--active-glow);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 180ms ease;
+  font-family: "Noto Sans Devanagari", sans-serif;
+  touch-action: manipulation;
+}
+
+.nav-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.nav-btn:active {
+  transform: scale(0.91);
+}
+
+.nav-btn:disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+  border-color: var(--line);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text-muted);
+  box-shadow: none;
+}
+
+.book-dedication-footer {
+  min-height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 0 4px;
+  min-width: 0;
+}
+
+.footer-credit-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.65rem;
+  line-height: 1;
+  color: #c9c1c7;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+}
+
+.footer-credit-logo {
+  width: 15px;
+  height: 15px;
+  object-fit: contain;
+  flex-shrink: 0;
+  display: block;
+}
+
+.footer-social-btns {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+}
+
+.footer-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.05);
+  color: #ede5de;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 180ms ease;
+  white-space: nowrap;
+}
+
+.footer-action-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: var(--active-accent);
+  color: #ffffff;
+}
+
+.footer-whatsapp-btn {
+  border-color: rgba(37, 211, 102, 0.35);
+  background: rgba(37, 211, 102, 0.12);
+  color: #25d366;
+}
+
+.footer-whatsapp-btn:hover {
+  background: #25d366;
+  color: #ffffff;
+}
+
+/* DAY PICKER MODAL */
+.day-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.78);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 16px;
+  animation: fadeIn 180ms ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.96); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.day-modal-card {
+  background: linear-gradient(180deg, #1b1624 0%, #120d1a 100%);
+  border: 1px solid var(--active-accent);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.8), 0 0 22px var(--active-glow);
+  border-radius: 20px;
+  padding: 20px 18px;
+  max-width: 360px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-height: 80vh;
+}
+
+.day-modal-title {
+  margin: 0;
+  font-family: "Hind", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.day-modal-input-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+}
+
+.day-input {
+  width: 90px;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+  outline: none;
+}
+
+.day-input:focus {
+  border-color: var(--active-accent);
+}
+
+.day-modal-btn {
+  padding: 8px 16px;
+  background: var(--active-accent);
+  color: var(--active-text-dark);
+  font-weight: 700;
+  font-size: 0.85rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* RESUME PROMPT MODAL */
+.resume-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.76);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 16px;
+  animation: fadeIn 180ms ease;
+}
+
+.resume-modal-card {
+  background: linear-gradient(180deg, #1b1624 0%, #120d1a 100%);
+  border: 1px solid var(--active-accent);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.8), 0 0 22px var(--active-glow);
+  border-radius: 20px;
+  padding: 20px 20px 18px;
+  max-width: 330px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.resume-modal-logo {
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+  margin-bottom: 2px;
+  filter: drop-shadow(0 2px 10px var(--active-glow));
+}
+
+.resume-modal-title {
+  margin: 0;
+  font-family: "Rozha One", serif;
+  font-size: 1.12rem;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+}
+
+.resume-modal-subtitle {
+  margin: 0;
+  font-family: "Noto Sans Devanagari", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--active-accent);
+  letter-spacing: 0.02em;
+}
+
+.resume-modal-desc {
+  font-family: "Noto Sans Devanagari", sans-serif;
+  font-size: 0.88rem;
+  color: #ede5de;
+  line-height: 1.5;
+  margin: 4px 0 2px;
+}
+
+.resume-modal-desc strong {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.resume-modal-actions {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  justify-content: center;
+  margin-top: 4px;
+}
+
+.modal-btn-confirm {
+  flex: 1.2;
+  background: var(--active-accent);
+  color: var(--active-text-dark);
+  font-weight: 800;
+  font-size: 0.82rem;
+  border: none;
+  border-radius: 99px;
+  padding: 9px 12px;
+  cursor: pointer;
+  font-family: "Noto Sans Devanagari", sans-serif;
+  transition: all 180ms ease;
+  box-shadow: 0 3px 12px var(--active-glow);
+  white-space: nowrap;
+}
+
+.modal-btn-cancel {
+  flex: 0.8;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 0.82rem;
+  border: 1px solid var(--line);
+  border-radius: 99px;
+  padding: 9px 12px;
+  cursor: pointer;
+  font-family: "Noto Sans Devanagari", sans-serif;
+  transition: all 180ms ease;
+  white-space: nowrap;
+}
+
+.modal-btn-confirm:active, .modal-btn-cancel:active {
+  transform: scale(0.94);
+}
+]]></b:skin>
+</head>
+
+<body>
+
+<!-- Semantic SEO crawler text -->
+<article aria-hidden='false' style='position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);'>
+  <header>
+    <h1>उम&#2366;भरत न&#2367;त&#2381;य गर&#2381;भस&#2306;व&#2366;द | UmaBharat Nitya Garbh Samvad, Garbh Sanskar &amp; Child Development</h1>
+    <h2>२४० द&#2367;वस&#2366;&#2306;च&#2375; स&#2306;प&#2370;र&#2381;ण गर&#2381;भस&#2306;स&#2381;क&#2366;र, भ&#2366;रत&#2368;य स&#2306;स&#2381;क&#2371;त&#2368;, स&#2306;स&#2381;क&#2366;र श&#2367;क&#2381;षण, गर&#2381;भवत&#2368; व&#2366;चन आण&#2367; ब&#2366;लव&#2367;क&#2366;स ग&#2381;र&#2306;थ</h2>
+    <p>स&#2306;कल&#2381;पन&#2366; व ल&#2375;खन: भरत र&#2366;सव&#2375; (Bharat Rasve) आण&#2367; उर&#2381;म&#2367;ल&#2366; भरत र&#2366;सव&#2375; (Urmila Bharat Rasve).</p>
+  </header>
+</article>
+
+<div id='garbhsamwad-root'/>
+
+<script>
+//<![CDATA[
+(function () {
+  'use strict';
+
+  const DATA_BASE = 'https://raw.githubusercontent.com/project-bharat/garbhsamwad/main/data/';
+
+  const SITE_LOGO_URL =
+    'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV2MsMGbtB55hCkbjyT2AiyTpqtfCfERB48JfQAWL2eaBhBF4lsJgmoUTqiFa94gYFIsLNY5ums0nTForrAuOiYPMcusXI8v4amRfsKEH6HY18swgO_AhpUwkyuXJmomsflnXOPf0gGBLHQCftxOaEsFxAiJgXq-_U9N210kxCfSU2_32hxnrX6rLRHlxC/s1600/ligh%20garbha%20Glowing%20Lotus%20Emblem.png';
+
+  const DARK_LOGO_URL =
+    'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLNTYaKH4ovbQhw8thTCwps74ZHR5KcQdfvFxilu2OvIkJ4lSYna7FMvyH3tU8vXLCvEqKxs5RAZpQ4XOc5P-jTeWHXhtdC3wgMK7zbm2LREbfW0nJ0SvKI61T2one6oquv5w2oXtK31OVIdvmE4N4qlV05gMymXdrijlaM67ca_GjvrbtG5GjqQf88BZz/s1600/dark%20garbhs%20Gradient%20Lotus%20fevicon.png';
+
+  const { useState, useEffect, useRef, useCallback } = React;
+
+  const TAB_NAMES = {
+    mother: 'आईचा गर्भसंवाद',
+    father: 'बाबांचा गर्भसंवाद',
+    parent: 'संयुक्त पालक संवाद',
+    story: 'संस्कारक्षम बोधकथा',
+    mantra: 'सार्थ वैदिक मंत्र',
+    sanskar: 'संस्कार व मूल्यशिक्षण'
+  };
+
+  const MARATHI_DIGITS = ['०', '१', '२', '३', '४', '५', '६', '७', '८', '९'];
+  function toMarathiDigits(num) {
+    if (num === undefined || num === null) return '';
+    return String(num).replace(/[0-9]/g, (d) => MARATHI_DIGITS[parseInt(d, 10)]);
+  }
+
+  function cleanNumberedLine(line) {
+    if (!line || typeof line !== 'string') return '';
+    return line
+      .trim()
+      .replace(/^(आई-बाबा|आई|बाबा)\s*[:ः\-]\s*/u, '')
+      .trim();
+  }
+
+  function extractParagraphs(rawItem) {
+    if (!rawItem) {
+      return { day: "दिवस १", title: "नित्य गर्भसंवाद", paragraphs: [] };
+    }
+
+    if (!Array.isArray(rawItem) && typeof rawItem === 'object') {
+      const paras = Array.isArray(rawItem.paragraphs)
+        ? rawItem.paragraphs
+        : (rawItem.messages || []);
+
+      return {
+        day: typeof rawItem.day === 'number' ? `दिवस ${rawItem.day}` : (rawItem.day || "दिवस १"),
+        title: rawItem.title || "नित्य गर्भसंवाद",
+        paragraphs: paras.map(p => cleanNumberedLine(p)).filter(Boolean)
+      };
+    }
+
+    const day = rawItem[0] || "दिवस १";
+    const title = rawItem[1] || "नित्य गर्भसंवाद";
+    const rawBody = rawItem[2] || "";
+
+    let lines = [];
+    if (Array.isArray(rawBody)) {
+      lines = rawBody;
+    } else if (typeof rawBody === 'string') {
+      lines = rawBody.split('\n');
+    }
+
+    const paragraphs = lines.map(l => cleanNumberedLine(l)).filter(l => l.length > 0);
+    return { day, title, paragraphs };
+  }
+
+  const FALLBACK_DATA = [
+    {
+      day: "दिवस १",
+      title: "माहिती लोड होत आहे...",
+      paragraphs: ["कृपया थोडा वेळ थांबा किंवा इंटरनेट कनेक्शन तपासा."]
+    }
+  ];
+
+  /* DEVANAGARI DIGITS & MARATHI NUMBER WORDS FOR NATURAL TTS SPEECH */
+  const DEVANAGARI_DIGITS_TO_ASCII = {
+    '०': '0', '१': '1', '२': '2', '३': '3', '४': '4',
+    '५': '5', '६': '6', '७': '7', '८': '8', '९': '9'
+  };
+
+  const MARATHI_NUMBER_WORDS = {
+    '0': 'शून्य', '1': 'एक', '2': 'दोन', '3': 'तीन', '4': 'चार', '5': 'पाच',
+    '6': 'सहा', '7': 'सात', '8': 'आठ', '9': 'नऊ', '10': 'दहा',
+    '11': 'अकरा', '12': 'बारा', '13': 'तेरा', '14': 'चौदा', '15': 'पंधरा',
+    '16': 'सोळा', '17': 'सतरा', '18': 'अठरा', '19': 'एकोणीस', '20': 'वीस',
+    '21': 'एकवीस', '22': 'बावीस', '23': 'तेवीस', '24': 'चोवीस', '25': 'पंचवीस',
+    '26': 'सव्वीस', '27': 'सत्तावीस', '28': 'अठ्ठावीस', '29': 'एकोणतीस', '30': 'तीस',
+    '31': 'एकतीस', '32': 'बत्तीस', '33': 'तेहतीस', '34': 'चौतीस', '35': 'पस्तीस',
+    '36': 'छत्तीस', '37': 'सदतीस', '38': 'अडतीस', '39': 'एकेचाळीस', '40': 'चाळीस',
+    '41': 'एक्केचाळीस', '42': 'बेचाळीस', '43': 'त्रेचाळीस', '44': 'चव्वेचाळीस', '45': 'पंचेचाळीस',
+    '46': 'शेहेचाळीस', '47': 'सत्तेचाळीस', '48': 'अठ्ठेचाळीस', '49': 'एकोणपन्नास', '50': 'पन्नास',
+    '51': 'एक्कावन्न', '52': 'बावन्न', '53': 'त्रेपन्न', '54': 'चोपन्न', '55': 'पंचावन्न',
+    '56': 'छप्पन्न', '57': 'सत्तावन्न', '58': 'अठ्ठावन्न', '59': 'एकोणसाठ', '60': 'साठ',
+    '61': 'एकसष्ठ', '62': 'बासष्ठ', '63': 'त्रेसष्ठ', '64': 'चौसष्ठ', '65': 'पासष्ठ',
+    '66': 'सहासष्ठ', '67': 'सदुसष्ठ', '68': 'अडुसष्ठ', '69': 'एकोणसत्तर', '70': 'सत्तर',
+    '71': 'एकाहत्तर', '72': 'बाहत्तर', '73': 'त्र्याहत्तर', '74': 'चौऱ्याहत्तर', '75': 'पंच्याहत्तर',
+    '76': 'शहात्तर', '77': 'सत्त्याहत्तर', '78': 'अठ्ठ्याहत्तर', '79': 'एकोणऐंशी', '80': 'ऐंशी',
+    '81': 'एक्याऐंशी', '82': 'ब्याऐंशी', '83': 'त्र्याऐंशी', '84': 'चौऱ्याऐंशी', '85': 'पंच्याऐंशी',
+    '86': 'शहाऐंशी', '87': 'सत्त्याऐंशी', '88': 'अठ्ठ्याऐंशी', '89': 'एकोणनव्वद', '90': 'नव्वद',
+    '91': 'एक्याण्णव', '92': 'ब्याण्णव', '93': 'त्र्याण्णव', '94': 'चौऱ्याण्णव', '95': 'पंच्याण्णव',
+    '96': 'शहाण्णव', '97': 'सत्त्याण्णव', '98': 'अठ्ठ्याण्णव', '99': 'नव्याण्णव', '100': 'शंभर'
+  };
+
+  function toAsciiDigits(str) {
+    return String(str || '').replace(/[०-९]/g, function (ch) {
+      return DEVANAGARI_DIGITS_TO_ASCII[ch] || ch;
+    });
+  }
+
+  function cleanForTTS(text) {
+    if (!text) return '';
+    let cleaned = text
+      .replace(/॥\s*[०-९0-9-]+\s*॥/g, ' ')
+      .replace(/[॥।]/g, ', ')
+      .replace(/[-_•*#~`^]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    // Convert digits to Marathi words so speech synthesis never gets stuck on numbers
+    cleaned = toAsciiDigits(cleaned).replace(/\b(\d+)\b/g, function (match) {
+      return MARATHI_NUMBER_WORDS[match] || match;
+    });
+
+    return cleaned;
+  }
+
+  /* Split long paragraphs into short, natural sentence chunks (max ~110 chars)
+     to prevent browser buffer timeouts, cutoff, and garbage collection freezes */
+  function splitTextIntoSentenceChunks(text, maxLen) {
+    if (!text) return [];
+    maxLen = maxLen || 110;
+    const cleaned = text
+      .replace(/॥\s*[०-९0-9-]+\s*॥/g, ' ')
+      .replace(/[-_•*#~`^]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (!cleaned) return [];
+
+    // Split on Marathi & Indian sentence delimiters: ।, ॥, ., !, ?, ;, or newline
+    const rawParts = cleaned.split(/([।॥.!?;\n]+)/);
+    const sentences = [];
+    for (let i = 0; i < rawParts.length; i += 2) {
+      const seg = (rawParts[i] || '').trim();
+      const punct = (rawParts[i + 1] || '').trim();
+      const combined = (seg + (punct ? ' ' + punct : '')).trim();
+      if (combined) sentences.push(combined);
+    }
+
+    const chunks = [];
+    for (let j = 0; j < sentences.length; j++) {
+      const s = sentences[j];
+      if (s.length <= maxLen) {
+        chunks.push(s);
+      } else {
+        // Sub-split long sentences on natural clause pauses (comma, dash)
+        const subParts = s.split(/([,،—]+)/);
+        let curr = '';
+        for (let k = 0; k < subParts.length; k++) {
+          const sp = subParts[k];
+          if ((curr + sp).length <= maxLen) {
+            curr += sp;
+          } else {
+            if (curr.trim()) chunks.push(curr.trim());
+            curr = sp;
+          }
+        }
+        if (curr.trim()) chunks.push(curr.trim());
+      }
+    }
+    return chunks;
+  }
+
+  function App() {
+    const [speaker, setSpeaker] = useState(() => {
+      const hasHistory = localStorage.getItem('ub_has_read');
+      return hasHistory ? (localStorage.getItem('ub_active_tab') || 'mother') : 'mother';
+    });
+
+    const [dataMap, setDataMap] = useState({
+      mother: FALLBACK_DATA,
+      father: FALLBACK_DATA,
+      parent: FALLBACK_DATA,
+      story: FALLBACK_DATA,
+      mantra: FALLBACK_DATA,
+      sanskar: FALLBACK_DATA
+    });
+
+    const [currentIndex, setCurrentIndex] = useState(() => {
+      const hasHistory = localStorage.getItem('ub_has_read');
+      if (!hasHistory) return 0;
+      const initialTab = localStorage.getItem('ub_active_tab') || 'mother';
+      const savedIndex = localStorage.getItem(`ub_day_${initialTab}`);
+      return savedIndex !== null ? parseInt(savedIndex, 10) : 0;
+    });
+
+    const [fontSize, setFontSize] = useState(() => {
+      const saved = localStorage.getItem('ub_font_size');
+      return saved ? parseInt(saved, 10) : 16;
+    });
+
+    const [showDayModal, setShowDayModal] = useState(false);
+    const [inputDay, setInputDay] = useState('');
+    const [showResumeModal, setShowResumeModal] = useState(false);
+    const [resumeData, setResumeData] = useState(null);
+
+    /* Robust Sentence-by-Sentence TTS State */
+    const [isTTSPlaying, setIsTTSPlaying] = useState(false);
+    const [activeParaIndex, setActiveParaIndex] = useState(-1);
+    const ttsQueueRef = useRef([]);
+    const ttsIndexRef = useRef(0);
+    const activeUtteranceRef = useRef(null);
+    const isCancelledRef = useRef(false);
+    const stepTimeoutRef = useRef(null);
+
+    const isDataLoaded = useRef(false);
+    const scrollRef = useRef(null);
+    const tabsContainerRef = useRef(null);
+
+    const touchStartX = useRef(null);
+    const touchStartY = useRef(null);
+    const touchStartTime = useRef(0);
+
+    /* DYNAMIC THEME BASED ON TAB */
+    useEffect(() => {
+      const root = document.documentElement;
+      const themes = {
+        mother: { accent: '#ec467a', glow: 'rgba(236, 70, 122, 0.25)', darkText: '#ffffff' },
+        father: { accent: 'var(--accent-violet)', glow: 'rgba(186, 140, 224, 0.20)', darkText: '#261436' },
+        parent: { accent: 'var(--accent-gold)', glow: 'rgba(226, 186, 111, 0.20)', darkText: '#352504' },
+        story: { accent: 'var(--accent-green)', glow: 'rgba(126, 203, 161, 0.20)', darkText: '#102d1d' },
+        mantra: { accent: 'var(--accent-saffron)', glow: 'rgba(244, 162, 97, 0.20)', darkText: '#381c06' },
+        sanskar: { accent: 'var(--accent-teal)', glow: 'rgba(72, 202, 228, 0.20)', darkText: '#042730' }
+      };
+
+      const activeTheme = themes[speaker] || themes.mother;
+      root.style.setProperty('--active-accent', activeTheme.accent);
+      root.style.setProperty('--active-glow', activeTheme.glow);
+      root.style.setProperty('--active-text-dark', activeTheme.darkText);
+    }, [speaker]);
+
+    /* LOAD GITHUB RAW DATA WITH PARALLEL FETCH */
+    useEffect(() => {
+      const loadFiles = async () => {
+        const files = [
+          { key: 'mother', path: DATA_BASE + 'mothers.json' },
+          { key: 'father', path: DATA_BASE + 'fathers.json' },
+          { key: 'parent', path: DATA_BASE + 'parent.json' },
+          { key: 'story', path: DATA_BASE + 'story.json' },
+          { key: 'mantra', path: DATA_BASE + 'mantra.json' },
+          { key: 'sanskar', path: DATA_BASE + 'sanskar.json' }
+        ];
+
+        const newDataMap = { ...dataMap };
+        const cacheBuster = `?t=${Date.now()}`;
+
+        for (let file of files) {
+          try {
+            const res = await fetch(file.path + cacheBuster);
+            if (res.ok) {
+              const data = await res.json();
+              if (Array.isArray(data) && data.length > 0) {
+                newDataMap[file.key] = data;
+              }
+            }
+          } catch (e) {
+            console.log(`Could not load ${file.path}`, e);
+          }
+        }
+
+        setDataMap(newDataMap);
+        isDataLoaded.current = true;
+
+        const hasHistory = localStorage.getItem('ub_has_read');
+        const lastTab = localStorage.getItem('ub_active_tab');
+
+        if (hasHistory && lastTab) {
+          const savedIndex = localStorage.getItem(`ub_day_${lastTab}`);
+          if (savedIndex !== null) {
+            const prevIdx = parseInt(savedIndex, 10);
+            const list = newDataMap[lastTab] || [];
+            if (list.length > 0 && prevIdx < list.length) {
+              const item = extractParagraphs(list[prevIdx]);
+              setResumeData({
+                tabKey: lastTab,
+                tabName: TAB_NAMES[lastTab] || 'संवाद',
+                dayText: item.day,
+                currentIndex: prevIdx,
+                totalDays: list.length
+              });
+              setShowResumeModal(true);
+            }
+          }
+        }
+      };
+
+      loadFiles();
+    }, []);
+
+    const activeList = dataMap[speaker] || FALLBACK_DATA;
+    const totalDays = activeList.length;
+    const safeIndex = isDataLoaded.current
+      ? Math.min(currentIndex, Math.max(0, totalDays - 1))
+      : currentIndex;
+
+    const { day, title, paragraphs } = extractParagraphs(activeList[safeIndex]);
+    const progressPercent = totalDays > 0 ? ((safeIndex + 1) / totalDays) * 100 : 0;
+
+    useEffect(() => {
+      if (isDataLoaded.current) {
+        localStorage.setItem(`ub_day_${speaker}`, safeIndex);
+        localStorage.setItem('ub_active_tab', speaker);
+        localStorage.setItem('ub_has_read', 'true');
+      }
+      const sectionLabel = TAB_NAMES[speaker] || 'गर्भसंवाद';
+      if (title && title !== 'माहिती लोड होत आहे...') {
+        document.title = `${day} : ${title} (${sectionLabel}) | उमाभरत नित्य गर्भसंवाद - Bharat Rasve`;
+      }
+    }, [safeIndex, speaker, day, title]);
+
+    useEffect(() => {
+      if (scrollRef.current) {
+        scrollRef.current.scrollTop = 0;
+      }
+      stopTTS();
+    }, [safeIndex, speaker]);
+
+    /* =========================================================================
+       ROBUST SENTENCE-BY-SENTENCE CONTINUOUS TTS ENGINE (READS ALL 200-300+ WORDS)
+       ========================================================================= */
+    const stopTTS = useCallback(() => {
+      isCancelledRef.current = true;
+      activeUtteranceRef.current = null;
+      ttsQueueRef.current = [];
+      ttsIndexRef.current = 0;
+      if (stepTimeoutRef.current) {
+        clearTimeout(stepTimeoutRef.current);
+        stepTimeoutRef.current = null;
+      }
+      if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+      setIsTTSPlaying(false);
+      setActiveParaIndex(-1);
+    }, []);
+
+    const playNextChunk = useCallback(() => {
+      if (isCancelledRef.current) return;
+      const queue = ttsQueueRef.current;
+      const idx = ttsIndexRef.current;
+
+      if (!queue || idx >= queue.length) {
+        // Reached end of entire day's text successfully!
+        stopTTS();
+        return;
+      }
+
+      const item = queue[idx];
+      setActiveParaIndex(item.paraIndex);
+
+      // Auto-scroll paragraph to center
+      const paraElem = document.getElementById(`para-${item.paraIndex}`);
+      if (paraElem) {
+        paraElem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+
+      const textToSpeak = cleanForTTS(item.text);
+      if (!textToSpeak) {
+        ttsIndexRef.current += 1;
+        playNextChunk();
+        return;
+      }
+
+      // Cancel lingering utterance if speaking
+      if (typeof window !== 'undefined' && 'speechSynthesis' in window && window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel();
+      }
+
+      const utterance = new SpeechSynthesisUtterance(textToSpeak);
+      activeUtteranceRef.current = utterance;
+
+      // Keep reference on window to prevent Chrome / Safari garbage collection freeze
+      if (!window._garbhaUtterances) window._garbhaUtterances = [];
+      window._garbhaUtterances.push(utterance);
+      if (window._garbhaUtterances.length > 50) window._garbhaUtterances.shift();
+
+      const voices = window.speechSynthesis.getVoices();
+      const mrVoice = voices.find(v => v.lang === 'mr-IN' || (v.lang && v.lang.toLowerCase().startsWith('mr')));
+      const hiVoice = voices.find(v => v.lang === 'hi-IN' || (v.lang && v.lang.toLowerCase().startsWith('hi')));
+      if (mrVoice) utterance.voice = mrVoice;
+      else if (hiVoice) utterance.voice = hiVoice;
+
+      utterance.lang = mrVoice ? 'mr-IN' : (hiVoice ? 'hi-IN' : 'mr-IN');
+      utterance.rate = 0.88; // Meditative devotional recitation pace
+      utterance.pitch = 1.0;
+
+      utterance.onend = () => {
+        if (!isCancelledRef.current) {
+          ttsIndexRef.current += 1;
+          stepTimeoutRef.current = setTimeout(() => {
+            if (!isCancelledRef.current) {
+              playNextChunk();
+            }
+          }, 70); // Natural breathing pause between sentences
+        }
+      };
+
+      utterance.onerror = (e) => {
+        // Recover immediately from any browser audio engine hiccup
+        if (!isCancelledRef.current) {
+          ttsIndexRef.current += 1;
+          stepTimeoutRef.current = setTimeout(() => {
+            if (!isCancelledRef.current) {
+              playNextChunk();
+            }
+          }, 90);
+        }
+      };
+
+      window.speechSynthesis.speak(utterance);
+    }, [stopTTS]);
+
+    const toggleTTS = () => {
+      if (isTTSPlaying) {
+        stopTTS();
+      } else {
+        if (typeof window === 'undefined' || !('speechSynthesis' in window)) {
+          alert('या डिव्हाइसवर स्पीच ऑडिओ सुविधा उपलब्ध नाही.');
+          return;
+        }
+
+        // Build continuous sentence-by-sentence queue for entire day content (all 200-300+ words)
+        const queue = [];
+        const secName = TAB_NAMES[speaker] || 'गर्भसंवाद';
+        if (title && title !== 'माहिती लोड होत आहे...') {
+          queue.push({
+            paraIndex: 0,
+            text: `${secName}. ${title}.`
+          });
+        }
+
+        paragraphs.forEach((p, pIdx) => {
+          const chunks = splitTextIntoSentenceChunks(p, 110);
+          chunks.forEach(chunk => {
+            queue.push({
+              paraIndex: pIdx,
+              text: chunk
+            });
+          });
+        });
+
+        if (queue.length === 0) return;
+
+        isCancelledRef.current = false;
+        ttsQueueRef.current = queue;
+        ttsIndexRef.current = 0;
+        setIsTTSPlaying(true);
+        setTimeout(playNextChunk, 100);
+      }
+    };
+
+    const handleSpeakerChange = (newSpeaker, event) => {
+      stopTTS();
+      setSpeaker(newSpeaker);
+      const savedIndex = localStorage.getItem(`ub_day_${newSpeaker}`);
+      const restoredIdx = savedIndex !== null ? parseInt(savedIndex, 10) : 0;
+      setCurrentIndex(restoredIdx);
+
+      if (event && event.target && tabsContainerRef.current) {
+        event.target.scrollIntoView({
+          behavior: 'smooth',
+          block: 'nearest',
+          inline: 'center'
+        });
+      }
+    };
+
+    const goToPrev = () => {
+      stopTTS();
+      if (safeIndex > 0) setCurrentIndex(safeIndex - 1);
+    };
+
+    const goToNext = () => {
+      stopTTS();
+      if (safeIndex < totalDays - 1) setCurrentIndex(safeIndex + 1);
+    };
+
+    const handleJumpDaySubmit = (e) => {
+      e.preventDefault();
+      const num = parseInt(inputDay, 10);
+      if (num >= 1 && num <= totalDays) {
+        stopTTS();
+        setCurrentIndex(num - 1);
+        setShowDayModal(false);
+        setInputDay('');
+      } else {
+        alert(`कृपया १ ते ${totalDays} दरम्यानचा दिवस प्रविष्ट करा.`);
+      }
+    };
+
+    const changeFont = (delta) => {
+      const newSize = Math.max(14, Math.min(24, fontSize + delta));
+      setFontSize(newSize);
+      localStorage.setItem('ub_font_size', String(newSize));
+    };
+
+    const handleResumeContinue = () => {
+      if (resumeData) {
+        setSpeaker(resumeData.tabKey);
+        const nextIndex = Math.min(resumeData.currentIndex + 1, resumeData.totalDays - 1);
+        setCurrentIndex(nextIndex);
+      }
+      setShowResumeModal(false);
+    };
+
+    const handleResumeDismiss = () => {
+      if (resumeData) {
+        setSpeaker(resumeData.tabKey);
+        setCurrentIndex(resumeData.currentIndex);
+      }
+      setShowResumeModal(false);
+    };
+
+    /* WHATSAPP PHOTO SNAP CARD SHARE */
+    const handleShare = async () => {
+      const sectionName = TAB_NAMES[speaker] || 'गर्भसंवाद';
+      const shareCaption = `*उमाभरत — नित्य गर्भसंवाद*\n${sectionName} • ${day} : *${title}*\n\nनिर्मिती आणि संकलन: भरत रासवे\nवाचा: https://garbhsamvad.blogspot.com/`;
+
+      try {
+        const canvas = document.createElement('canvas');
+        const ctx = canvas.getContext('2d');
+        const width = 1080;
+        const padding = 70;
+        const contentWidth = width - padding * 2;
+
+        ctx.font = '400 32px "Noto Serif Devanagari", serif';
+        let calculatedHeight = 440;
+
+        const wrappedParagraphs = [];
+        paragraphs.forEach((pText) => {
+          const lines = pText.split('\n');
+          lines.forEach((subLine) => {
+            const words = subLine.split(' ');
+            let currentLine = '';
+            const pLines = [];
+            words.forEach((word) => {
+              const testLine = currentLine ? `${currentLine} ${word}` : word;
+              if (ctx.measureText(testLine).width > contentWidth) {
+                pLines.push(currentLine);
+                currentLine = word;
+              } else {
+                currentLine = testLine;
+              }
+            });
+            if (currentLine) pLines.push(currentLine);
+            wrappedParagraphs.push(pLines);
+          });
+        });
+
+        const totalLines = wrappedParagraphs.reduce((acc, p) => acc + p.length, 0);
+        calculatedHeight += totalLines * 52 + wrappedParagraphs.length * 28 + 260;
+        canvas.width = width;
+        canvas.height = Math.max(1400, calculatedHeight);
+
+        const bgGrad = ctx.createLinearGradient(0, 0, width, canvas.height);
+        bgGrad.addColorStop(0, '#16121d');
+        bgGrad.addColorStop(0.5, '#1e1829');
+        bgGrad.addColorStop(1, '#110d18');
+        ctx.fillStyle = bgGrad;
+        ctx.fillRect(0, 0, width, canvas.height);
+
+        ctx.strokeStyle = 'rgba(236, 70, 122, 0.35)';
+        ctx.lineWidth = 3;
+        ctx.strokeRect(30, 30, width - 60, canvas.height - 60);
+
+        const logoImg = new Image();
+        logoImg.crossOrigin = 'anonymous';
+        logoImg.src = DARK_LOGO_URL;
+        await new Promise(resolve => {
+          logoImg.onload = resolve;
+          logoImg.onerror = resolve;
+        });
+
+        if (logoImg.complete && logoImg.naturalWidth !== 0) {
+          ctx.save();
+          ctx.globalAlpha = 0.055;
+          const watermarkSize = Math.min(width * 0.58, 520);
+          ctx.drawImage(logoImg, (width - watermarkSize) / 2, (canvas.height - watermarkSize) / 2, watermarkSize, watermarkSize);
+          ctx.restore();
+
+          ctx.save();
+          ctx.beginPath();
+          ctx.arc(padding + 34, 102, 34, 0, Math.PI * 2);
+          ctx.closePath();
+          ctx.clip();
+          ctx.drawImage(logoImg, padding, 68, 68, 68);
+          ctx.restore();
+
+          ctx.fillStyle = '#ec467a';
+          ctx.font = '400 44px "Rozha One", serif';
+          ctx.fillText('उमाभरत नित्य गर्भसंवाद', padding + 85, 114);
+        } else {
+          ctx.fillStyle = '#ec467a';
+          ctx.font = '400 44px "Rozha One", serif';
+          ctx.fillText('उमाभरत नित्य गर्भसंवाद', padding, 114);
+        }
+
+        ctx.fillStyle = '#cbd5e1';
+        ctx.font = '600 24px "Noto Sans Devanagari", sans-serif';
+        ctx.textAlign = 'right';
+        ctx.fillText('संकलन: भरत रासवे', width - padding, 110);
+        ctx.textAlign = 'left';
+
+        ctx.fillStyle = '#e2ba6f';
+        ctx.font = '600 28px "Noto Sans Devanagari", sans-serif';
+        ctx.fillText(`${day}  •  ${sectionName}`, padding, 175);
+
+        ctx.fillStyle = '#ffffff';
+        ctx.font = '700 42px "Hind", "Noto Sans Devanagari", sans-serif';
+        ctx.fillText(title, padding, 245);
+
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.15)';
+        ctx.fillRect(padding, 275, contentWidth, 2);
+
+        let y = 335;
+        ctx.fillStyle = '#ede5de';
+        ctx.font = '400 32px "Noto Serif Devanagari", serif';
+
+        wrappedParagraphs.forEach((pLines) => {
+          pLines.forEach((wLine) => {
+            if (wLine.startsWith('॥') && wLine.endsWith('॥')) {
+              ctx.fillStyle = '#e2ba6f';
+              ctx.font = '700 34px "Hind", "Noto Sans Devanagari", sans-serif';
+            } else {
+              ctx.fillStyle = '#ede5de';
+              ctx.font = '400 32px "Noto Serif Devanagari", serif';
+            }
+            ctx.fillText(wLine, padding, y);
+            y += 50;
+          });
+          y += 24;
+        });
+
+        const footerBoxHeight = 150;
+        const footerY = canvas.height - footerBoxHeight - 45;
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.03)';
+        ctx.strokeStyle = 'rgba(226, 186, 111, 0.35)';
+        ctx.lineWidth = 1.5;
+        ctx.beginPath();
+        ctx.roundRect(padding, footerY, contentWidth, footerBoxHeight, 16);
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.textAlign = 'center';
+        ctx.fillStyle = '#ec467a';
+        ctx.font = '700 28px "Hind", "Noto Sans Devanagari", sans-serif';
+        ctx.fillText(`उमाभरत — नित्य गर्भसंवाद  |  ${sectionName} • ${day}`, width / 2, footerY + 45);
+
+        ctx.fillStyle = '#e2ba6f';
+        ctx.font = '600 24px "Noto Sans Devanagari", sans-serif';
+        ctx.fillText('निर्मिती आणि संकलन: भरत रासवे', width / 2, footerY + 85);
+
+        ctx.fillStyle = '#88edb5';
+        ctx.font = '500 22px "Noto Sans Devanagari", sans-serif';
+        ctx.fillText('वाचा: https://garbhsamvad.blogspot.com/', width / 2, footerY + 122);
+
+        canvas.toBlob(async (blob) => {
+          if (!blob) {
+            fallbackShare(shareCaption);
+            return;
+          }
+          const fileName = `Garbhasamwad_${day.replace(/\s+/g, '')}.png`;
+          const file = new File([blob], fileName, { type: 'image/png' });
+
+          if (navigator.canShare && navigator.canShare({ files: [file] })) {
+            try {
+              await navigator.share({
+                files: [file],
+                title: 'उमाभरत – नित्य गर्भसंवाद',
+                text: shareCaption
+              });
+            } catch (err) {
+              if (err && err.name !== 'AbortError') fallbackShare(shareCaption);
+            }
+          } else {
+            const downloadLink = document.createElement('a');
+            downloadLink.href = URL.createObjectURL(blob);
+            downloadLink.download = fileName;
+            downloadLink.click();
+            fallbackShare(shareCaption);
+          }
+        }, 'image/png');
+      } catch (e) {
+        fallbackShare(shareCaption);
+      }
+    };
+
+    const fallbackShare = (text) => {
+      if (navigator.share) {
+        navigator.share({ title: 'उमाभरत – नित्य गर्भसंवाद', text }).catch(() => {});
+      } else if (navigator.clipboard) {
+        navigator.clipboard.writeText(text);
+        alert('मजकूर कॉपी झाला आहे. आपण व्हॉट्सॲपवर पेस्ट करू शकता.');
+      } else {
+        window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
+      }
+    };
+
+    /* SWIPE GESTURES FOR MOBILE */
+    useEffect(() => {
+      const onTouchStart = (e) => {
+        if (!e.touches || e.touches.length !== 1) return;
+        touchStartX.current = e.touches[0].clientX;
+        touchStartY.current = e.touches[0].clientY;
+        touchStartTime.current = Date.now();
+      };
+
+      const onTouchEnd = (e) => {
+        if (touchStartX.current === null || !e.changedTouches || e.changedTouches.length !== 1) return;
+        const endX = e.changedTouches[0].clientX;
+        const endY = e.changedTouches[0].clientY;
+        const dx = endX - touchStartX.current;
+        const dy = endY - touchStartY.current;
+        const elapsed = Date.now() - touchStartTime.current;
+
+        touchStartX.current = null;
+        touchStartY.current = null;
+
+        if (elapsed > 900 || Math.abs(dx) < 55 || Math.abs(dx) < Math.abs(dy) * 1.35) return;
+        if (dx < 0) goToNext(); else goToPrev();
+      };
+
+      document.addEventListener('touchstart', onTouchStart, { passive: true });
+      document.addEventListener('touchend', onTouchEnd, { passive: true });
+
+      return () => {
+        document.removeEventListener('touchstart', onTouchStart);
+        document.removeEventListener('touchend', onTouchEnd);
+      };
+    }, [safeIndex, totalDays]);
+
+    const TABS = [
+      { id: 'mother', label: 'आई' },
+      { id: 'father', label: 'बाबा' },
+      { id: 'parent', label: 'पालक' },
+      { id: 'story', label: 'कथा' },
+      { id: 'mantra', label: 'मंत्र' },
+      { id: 'sanskar', label: 'संस्कार' }
+    ];
+
+    /* RENDER CONTENT WITH PARAGRAPH-BY-PARAGRAPH TTS ACTIVE HIGHLIGHT */
+    const renderContent = () => {
+      if (speaker !== 'mantra') {
+        return paragraphs.map((p, idx) => {
+          const trimmed = p.trim();
+          const isActive = isTTSPlaying && activeParaIndex === idx;
+          const paraClass = `book-paragraph ${isActive ? 'tts-active' : ''} ${speaker === 'sanskar' && (trimmed.includes('विचार:') || trimmed.includes('कृती:')) ? 'sanskar-line' : ''}`;
+
+          return React.createElement(
+            'p',
+            {
+              key: idx,
+              id: `para-${idx}`,
+              className: paraClass,
+              style: { fontSize: `${fontSize}px` }
+            },
+            p
+          );
+        });
+      }
+
+      const elements = [];
+      let i = 0;
+      while (i < paragraphs.length) {
+        const trimmed = paragraphs[i].trim();
+        const isHeader = trimmed.startsWith('॥') && trimmed.endsWith('॥') && !trimmed.includes('\n');
+        const isVerseHeader = isHeader && !trimmed.includes('अर्थ') && !trimmed.includes('गर्भसंवाद') && !trimmed.includes('हितगुज');
+        const isActive = isTTSPlaying && activeParaIndex === i;
+
+        if (isVerseHeader && i + 1 < paragraphs.length && (paragraphs[i + 1].includes('।') || paragraphs[i + 1].includes('॥') || paragraphs[i + 1].trim().startsWith('ॐ'))) {
+          const cardHeader = trimmed;
+          const cardVerseLines = paragraphs[i + 1].split('\n');
+          elements.push(
+            React.createElement(
+              'div',
+              { key: `mantra-card-${i}`, id: `para-${i}`, className: `mantra-verse-card ${isActive ? 'tts-active' : ''}` },
+              React.createElement('span', { className: 'mantra-verse-title' }, cardHeader),
+              cardVerseLines.map((line, lIdx) => {
+                const lTrim = line.trim();
+                if (!lTrim) return React.createElement('span', { key: lIdx, className: 'mantra-verse-empty' });
+                return React.createElement('span', { key: lIdx, className: 'mantra-verse-line' }, lTrim);
+              })
+            )
+          );
+          i += 2;
+          continue;
+        } else if (!isHeader && (trimmed.includes('।') || trimmed.includes('॥') || trimmed.startsWith('ॐ'))) {
+          const cardVerseLines = paragraphs[i].split('\n');
+          elements.push(
+            React.createElement(
+              'div',
+              { key: `mantra-card-${i}`, id: `para-${i}`, className: `mantra-verse-card ${isActive ? 'tts-active' : ''}` },
+              cardVerseLines.map((line, lIdx) => {
+                const lTrim = line.trim();
+                if (!lTrim) return React.createElement('span', { key: lIdx, className: 'mantra-verse-empty' });
+                return React.createElement('span', { key: lIdx, className: 'mantra-verse-line' }, lTrim);
+              })
+            )
+          );
+          i++;
+          continue;
+        }
+
+        if (isHeader) {
+          elements.push(
+            React.createElement('h3', { key: `header-${i}`, className: 'mantra-content-header' }, trimmed)
+          );
+          i++;
+          continue;
+        }
+
+        elements.push(
+          React.createElement(
+            'p',
+            {
+              key: `para-${i}`,
+              id: `para-${i}`,
+              className: `book-paragraph ${isActive ? 'tts-active' : ''}`,
+              style: { fontSize: `${fontSize}px` }
+            },
+            paragraphs[i]
+          )
+        );
+        i++;
+      }
+
+      return elements;
+    };
+
+    return React.createElement(
+      'div',
+      { className: 'app' },
+      React.createElement(
+        'div',
+        { className: 'shell' },
+
+        /* TOPBAR */
+        React.createElement(
+          'header',
+          { className: 'topbar' },
+          React.createElement(
+            'div',
+            { className: 'brand-horizontal', onClick: () => setShowDayModal(true), title: 'दिवस निवडा' },
+            React.createElement('img', {
+              className: 'brand-logo-img',
+              src: SITE_LOGO_URL,
+              alt: 'उमाभरत लोगो'
+            }),
+            React.createElement(
+              'div',
+              { className: 'brand-inline-text' },
+              React.createElement('h1', null, 'उमाभरत'),
+              React.createElement('h2', null, 'नित्य गर्भसंवाद')
+            )
+          ),
+          React.createElement(
+            'div',
+            { className: 'header-actions' },
+            /* TTS Audio Recitation Button */
+            React.createElement(
+              'button',
+              {
+                className: `header-tts-btn ${isTTSPlaying ? 'playing' : ''}`,
+                onClick: toggleTTS,
+                title: isTTSPlaying ? 'ऑडिओ पठण थांबवा' : 'संवादाचे ऑडिओ पठण ऐका'
+              },
+              React.createElement('i', { className: `fa-solid ${isTTSPlaying ? 'fa-circle-stop' : 'fa-volume-high'}` }),
+              React.createElement('span', null, isTTSPlaying ? 'थांबवा' : 'ऐका')
+            ),
+            /* Font Size Resizer */
+            React.createElement(
+              'div',
+              { className: 'header-font-resizer' },
+              React.createElement('button', { className: 'header-font-btn', onClick: () => changeFont(-1), title: 'अक्षर लहान करा' }, 'अ-'),
+              React.createElement('button', { className: 'header-font-btn', onClick: () => changeFont(1), title: 'अक्षर मोठे करा' }, 'अ+')
+            ),
+            /* Clickable Day Counter */
+            React.createElement(
+              'div',
+              {
+                className: 'header-day-counter',
+                onClick: () => setShowDayModal(true),
+                title: 'इतर दिवसावर जाण्यासाठी क्लिक करा'
+              },
+              day
+            ),
+            /* Share Button */
+            React.createElement(
+              'button',
+              {
+                className: 'header-share-btn',
+                onClick: handleShare,
+                'aria-label': 'स्नॅप शेअर करा',
+                title: 'स्नॅप शेअर करा'
+              },
+              React.createElement('i', { className: 'fa-solid fa-share-nodes' })
+            )
+          )
+        ),
+
+        /* COMPACT TABS */
+        React.createElement(
+          'div',
+          { className: 'tabs-wrapper' },
+          React.createElement(
+            'div',
+            { className: 'tabs-container', ref: tabsContainerRef },
+            TABS.map(tab =>
+              React.createElement(
+                'button',
+                {
+                  key: tab.id,
+                  className: `tab-btn ${speaker === tab.id ? 'active' : ''}`,
+                  onClick: e => handleSpeakerChange(tab.id, e)
+                },
+                tab.label
+              )
+            )
+          )
+        ),
+
+        /* PROGRESS TRACK */
+        React.createElement(
+          'div',
+          { className: 'progress-bar-wrap' },
+          React.createElement(
+            'div',
+            { className: 'progress-track' },
+            React.createElement('div', {
+              className: 'progress-fill',
+              style: { width: `${progressPercent}%` }
+            })
+          )
+        ),
+
+        /* MAIN BOOK READER */
+        React.createElement(
+          'main',
+          { className: 'book-reader' },
+          React.createElement('div', { className: 'book-reader-watermark' }),
+          React.createElement(
+            'div',
+            { className: 'book-header' },
+            React.createElement('h2', { className: 'chapter-title' }, title),
+            isTTSPlaying && React.createElement(
+              'div',
+              { className: 'audio-live-badge' },
+              React.createElement('i', { className: 'fa-solid fa-waveform-lines fa-spin' }),
+              'पठण सुरू...'
+            )
+          ),
+          React.createElement(
+            'div',
+            { className: 'book-body', ref: scrollRef },
+            React.createElement(
+              'div',
+              { className: 'prose-content' },
+              renderContent()
+            ),
+            React.createElement(
+              'div',
+              { className: 'closing-mantra-box' },
+              React.createElement(
+                'p',
+                { className: 'closing-text' },
+                React.createElement('i', { className: 'fa-solid fa-praying-hands' }),
+                ' आई-बाबांचे प्रेम आणि शुभ आशीर्वाद ',
+                React.createElement('i', { className: 'fa-solid fa-praying-hands' })
+              )
+            )
+          )
+        ),
+
+        /* BOTTOM NAV */
+        React.createElement(
+          'nav',
+          { className: 'bottom-nav' },
+          React.createElement(
+            'button',
+            {
+              className: 'nav-btn',
+              onClick: goToPrev,
+              disabled: safeIndex === 0,
+              'aria-label': 'मागील दिवस',
+              title: 'मागील दिवस'
+            },
+            React.createElement('i', { className: 'fa-solid fa-chevron-left' })
+          ),
+          React.createElement(
+            'div',
+            { className: 'book-dedication-footer' },
+            React.createElement(
+              'div',
+              { className: 'footer-credit-group' },
+              React.createElement('img', {
+                src: DARK_LOGO_URL,
+                alt: 'Logo',
+                className: 'footer-credit-logo'
+              }),
+              React.createElement('span', null, 'निर्मिती आणि संकलन: भरत रासवे')
+            ),
+            React.createElement(
+              'div',
+              { className: 'footer-social-btns' },
+              React.createElement(
+                'button',
+                {
+                  className: 'footer-action-btn',
+                  onClick: () => setShowDayModal(true),
+                  title: 'दिवस निवडा'
+                },
+                React.createElement('i', { className: 'fa-solid fa-calendar-day' }),
+                ' दिवस'
+              ),
+              React.createElement(
+                'a',
+                {
+                  className: 'footer-action-btn footer-whatsapp-btn',
+                  href: 'https://wa.me/917218838122?text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%AD%E0%A4%B0%E0%A4%A4%20%E0%A4%9C%E0%A5%80%2C%20%E0%A4%89%E0%A4%AE%E0%A4%BE%E0%A4%AD%E0%A4%B0%E0%A4%A4%20%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AD%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BE%E0%A4%A6%20%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%AF%E0%A5%80%20%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A4%BE%20%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%9A%E0%A5%80%20%E0%A4%86%E0%A4%B9%E0%A5%87.',
+                  target: '_blank',
+                  rel: 'noopener noreferrer',
+                  title: 'WhatsApp वर संपर्क'
+                },
+                React.createElement('i', { className: 'fa-brands fa-whatsapp' }),
+                ' संपर्क'
+              )
+            )
+          ),
+          React.createElement(
+            'button',
+            {
+              className: 'nav-btn',
+              onClick: goToNext,
+              disabled: safeIndex === totalDays - 1,
+              'aria-label': 'पुढील दिवस',
+              title: 'पुढील दिवस'
+            },
+            React.createElement('i', { className: 'fa-solid fa-chevron-right' })
+          )
+        )
+      ),
+
+      /* DAY PICKER MODAL */
+      showDayModal && React.createElement(
+        'div',
+        { className: 'day-modal-backdrop', onClick: () => setShowDayModal(false) },
+        React.createElement(
+          'div',
+          { className: 'day-modal-card', onClick: e => e.stopPropagation() },
+          React.createElement('h3', { className: 'day-modal-title' }, `कोणत्या दिवसावर जायचे आहे? (१ ते ${toMarathiDigits(totalDays)})`),
+          React.createElement(
+            'form',
+            { onSubmit: handleJumpDaySubmit, className: 'day-modal-input-row' },
+            React.createElement('input', {
+              type: 'number',
+              min: '1',
+              max: totalDays,
+              placeholder: safeIndex + 1,
+              value: inputDay,
+              onChange: e => setInputDay(e.target.value),
+              className: 'day-input',
+              autoFocus: true
+            }),
+            React.createElement('button', { type: 'submit', className: 'day-modal-btn' }, 'जा')
+          )
+        )
+      ),
+
+      /* RESUME MODAL */
+      showResumeModal && resumeData ? React.createElement(
+        'div',
+        { className: 'resume-modal-backdrop' },
+        React.createElement(
+          'div',
+          { className: 'resume-modal-card' },
+          React.createElement('img', {
+            src: SITE_LOGO_URL,
+            alt: 'Logo',
+            className: 'resume-modal-logo'
+          }),
+          React.createElement('h3', { className: 'resume-modal-title' }, 'उमाभरत नित्य गर्भसंवाद'),
+          React.createElement('span', { className: 'resume-modal-subtitle' }, 'पुन्हा स्वागत आहे!'),
+          React.createElement(
+            'p',
+            { className: 'resume-modal-desc' },
+            `तुम्ही मागच्या वेळी `,
+            React.createElement('strong', null, `'${resumeData.tabName}'`),
+            ` मधील `,
+            React.createElement('strong', null, `'${resumeData.dayText}'`),
+            ` वाचत होता.`
+          ),
+          React.createElement(
+            'div',
+            { className: 'resume-modal-actions' },
+            React.createElement(
+              'button',
+              { className: 'modal-btn-confirm', onClick: handleResumeContinue },
+              'पुढचा दिवस घ्या'
+            ),
+            React.createElement(
+              'button',
+              { className: 'modal-btn-cancel', onClick: handleResumeDismiss },
+              'नको'
+            )
+          )
+        )
+      ) : null
+    );
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const root = document.getElementById('garbhsamwad-root');
+    if (root) {
+      ReactDOM.createRoot(root).render(React.createElement(App));
+    }
+  });
+})();
+//]]>
+</script>
+
+<div style='display:none'>
+<b:section id='garbhsamwad_blogger_section' showaddelement='no'>
+  <b:widget id='Blog1' locked='true' title='ब्लॉग पोस्ट्स' type='Blog' version='2' visible='true'>
+    <b:widget-settings>
+      <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+      <b:widget-setting name='showShareButtons'>false</b:widget-setting>
+      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+      <b:widget-setting name='showAuthor'>true</b:widget-setting>
+      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+      <b:widget-setting name='reactionsLabel'/>
+      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+      <b:widget-setting name='showLabels'>true</b:widget-setting>
+      <b:widget-setting name='showLocation'>true</b:widget-setting>
+      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+      <b:widget-setting name='showReactions'>false</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'/>
+    <b:includable id='aboutPostAuthor'>
+  <div class='author-name'>
+    <a class='g-profile' expr:href='data:post.author.profileUrl' rel='author' title='author profile'>
+      <span>
+        <data:post.author.name/>
+      </span>
+    </a>
+  </div>
+  <div>
+    <span class='author-desc'>
+      <data:post.author.aboutMe/>
+    </span>
+  </div>
+</b:includable>
+    <b:includable id='addComments'>
+  <a expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+    <b:message name='messages.postAComment'/>
+  </a>
+</b:includable>
+    <b:includable id='blogThisShare'>
+  <b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' var='onclick'>
+    <b:include name='platformShare'/>
+  </b:with>
+</b:includable>
+    <b:includable id='bylineByName' var='byline'>
+  <b:switch var='data:byline.name'>
+  <b:case value='share'/>
+    <b:include cond='data:post.shareUrl' name='postShareButtons'/>
+  <b:case value='comments'/>
+    <b:include cond='data:post.allowComments' name='postCommentsLink'/>
+  <b:case value='location'/>
+    <b:include cond='data:post.location' name='postLocation'/>
+  <b:case value='timestamp'/>
+    <b:include cond='not data:view.isPage' name='postTimestamp'/>
+  <b:case value='author'/>
+    <b:include name='postAuthor'/>
+  <b:case value='labels'/>
+    <b:include cond='data:post.labels' name='postLabels'/>
+  <b:case value='icons'/>
+    <b:include cond='data:post.emailPostUrl' name='emailPostIcon'/>
+  </b:switch>
+</b:includable>
+    <b:includable id='bylineRegion' var='regionItems'>
+  <b:loop values='data:regionItems' var='byline'>
+    <b:include data='byline' name='bylineByName'/>
+  </b:loop>
+</b:includable>
+    <b:includable id='commentAuthorAvatar'>
+  <div class='avatar-image-container'>
+    <img class='author-avatar' expr:src='data:comment.authorAvatarSrc' height='35' width='35'/>
+  </div>
+</b:includable>
+    <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:messages.deleteComment'>
+        <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+    <b:includable id='commentForm' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:messages.postAComment/></h4>
+    <b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+      <p><data:this.messages.blogComment/></p>
+    </b:if>
+    <b:include data='post' name='commentFormIframeSrc'/>
+    <iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+    <b:includable id='commentFormIframeSrc' var='post'>
+  <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+</b:includable>
+    <b:includable id='commentItem' var='comment'>
+  <div class='comment' expr:id='&quot;c&quot; + data:comment.id'>
+    <b:include cond='data:blog.enabledCommentProfileImages' name='commentAuthorAvatar'/>
+
+    <div class='comment-block'>
+      <div class='comment-author'>
+        <b:if cond='data:comment.authorUrl'>
+          <b:message name='messages.authorSaidWithLink'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+            <b:param expr:value='data:comment.authorUrl' name='authorUrl'/>
+          </b:message>
+        <b:else/>
+          <b:message name='messages.authorSaid'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+          </b:message>
+        </b:if>
+      </div>
+      <div expr:class='&quot;comment-body&quot; + (data:comment.isDeleted ? &quot; deleted&quot; : &quot;&quot;)'>
+        <data:comment.body/>
+      </div>
+      <div class='comment-footer'>
+        <span class='comment-timestamp'>
+          <a expr:href='data:comment.url' title='comment permalink'>
+            <data:comment.timestamp/>
+          </a>
+          <b:include data='comment' name='commentDeleteIcon'/>
+        </span>
+      </div>
+    </div>
+  </div>
+</b:includable>
+    <b:includable id='commentList' var='comments'>
+  <div id='comments-block'>
+    <b:loop values='data:comments' var='comment'>
+      <b:include data='comment' name='commentItem'/>
+    </b:loop>
+  </div>
+</b:includable>
+    <b:includable id='commentPicker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threadedComments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+    <b:includable id='comments' var='post'>
+  <section expr:class='&quot;comments&quot; + (data:post.embedCommentForm ? &quot; embed&quot; : &quot;&quot;)' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+
+      <b:include name='commentsTitle'/>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <b:include cond='data:post.comments' data='post.comments' name='commentList'/>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <div class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+              <data:messages.oldest/>
+            </a>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+              <data:messages.older/>
+            </a>
+          </b:if>
+
+          <span class='comment-range-text'>
+            <data:post.commentRangeText/>
+          </span>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+              <data:messages.newer/>
+            </a>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+              <data:messages.newest/>
+            </a>
+          </b:if>
+        </div>
+      </b:if>
+
+      <div class='footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='commentForm'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:else/>
+          <b:if cond='data:post.allowComments'>
+            <b:include data='post' name='addComments'/>
+          </b:if>
+        </b:if>
+      </div>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+  </section>
+</b:includable>
+    <b:includable id='commentsLink'>
+  <a class='comment-link' expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+    <b:if cond='data:post.numberOfComments &gt; 0'>
+      <b:message name='messages.numberOfComments'>
+        <b:param expr:value='data:post.numberOfComments' name='numComments'/>
+      </b:message>
+    <b:else/>
+      <data:messages.postAComment/>
+    </b:if>
+  </a>
+</b:includable>
+    <b:includable id='commentsLinkIframe'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='commentsTitle'>
+  <h3 class='title'><data:messages.comments/></h3>
+</b:includable>
+    <b:includable id='defaultAdUnit'>
+  <ins class='adsbygoogle' data-ad-format='auto' expr:data-ad-client='data:adClientId ?: data:blog.adsenseClientId' expr:data-ad-host='data:blog.adsenseHostId' expr:style='data:style ?: &quot;display: block;&quot;'>
+    <b:attr cond='not data:blog.analytics4' expr:value='data:blog.analyticsAccountNumber' name='data-analytics-uacct'/>
+  </ins>
+  <script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</b:includable>
+    <b:includable id='emailPostIcon'>
+  <span class='byline post-icons'>
+    <!-- email post links -->
+    <span class='item-action'>
+      <a expr:href='data:post.emailPostUrl' expr:title='data:messages.emailPost'>
+        <b:include data='{ iconClass: &quot;touch-icon sharing-icon&quot; }' name='emailIcon'/>
+      </a>
+    </span>
+  </span>
+</b:includable>
+    <b:includable id='facebookShare'>
+  <b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' var='onclick'>
+    <b:include name='platformShare'/>
+  </b:with>
+</b:includable>
+    <b:includable id='feedLinks'>
+  <b:if cond='!data:view.isPost'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.allowComments and data:post.feedLinks'>
+          <b:include data='post.feedLinks' name='feedLinksBody'/>
+        </b:if>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:messages.subscribeTo/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+    <b:includable id='footerBylines'>
+  <b:if cond='data:widgets.Blog.first.footerBylines'>
+    <b:loop index='i' values='data:widgets.Blog.first.footerBylines' var='region'>
+      <b:if cond='not data:region.items.empty'>
+        <div expr:class='&quot;post-footer-line post-footer-line-&quot; + (data:i + 1)'>
+          <b:with value='&quot;footer-&quot; + (data:i + 1)' var='regionName'>
+            <b:include data='region.items' name='bylineRegion'/>
+          </b:with>
+        </div>
+      </b:if>
+    </b:loop>
+  </b:if>
+</b:includable>
+    <b:includable id='googlePlusShare'>
+</b:includable>
+    <b:includable id='headerByline'>
+  <b:if cond='data:widgets.Blog.first.headerByline'>
+    <div class='post-header'>
+      <div class='post-header-line-1'>
+        <b:with value='&quot;header-1&quot;' var='regionName'>
+          <b:include data='data:widgets.Blog.first.headerByline.items' name='bylineRegion'/>
+        </b:with>
+      </div>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='homePageLink'>
+  <a class='home-link' expr:href='data:blog.homepageUrl'>
+    <data:messages.home/>
+  </a>
+</b:includable>
+    <b:includable id='iframeComments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='inlineAd' var='post'>
+  <b:if cond='!data:view.isPreview'>
+    <b:if cond='data:this.adCode or data:this.adClientId or data:blog.adsenseClientId'>
+      <!-- Ad -->
+      <div class='inline-ad'>
+        <b:if cond='data:this.adCode != &quot;&quot;'>
+          <data:this.adCode/>
+        <b:else/>
+          <b:include cond='data:this.adClientId or data:blog.adsenseClientId' name='defaultAdUnit'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <div class='inline-ad'>
+      <div class='inline-ad-placeholder'>
+        <span><b:message name='messages.adsGoHere'/></span>
+      </div>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='linkShare'>
+  <b:with value='&quot;window.prompt(\&quot;Copy to clipboard: Ctrl+C, Enter\&quot;, \&quot;&quot; + data:originalUrl + &quot;\&quot;); return false;&quot;' var='onclick'>
+    <b:include name='platformShare'/>
+  </b:with>
+</b:includable>
+    <b:includable id='nextPageLink'>
+  <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
+    <data:messages.olderPosts/>
+  </a>
+</b:includable>
+    <b:includable id='otherSharingButton'>
+  <span class='sharing-platform-button sharing-element-other' expr:aria-label='data:messages.shareToOtherApps.escaped' expr:data-url='data:originalUrl' expr:title='data:messages.shareToOtherApps.escaped' role='menuitem' tabindex='-1'>
+    <b:with value='{key: &quot;sharingOther&quot;}' var='platform'>
+      <b:include name='sharingPlatformIcon'/>
+    </b:with>
+    <span class='platform-sharing-text'><data:messages.shareOtherApps.escaped/></span>
+  </span>
+</b:includable>
+    <b:includable id='platformShare'>
+  <a expr:class='&quot;goog-inline-block sharing-&quot; + data:platform.key' expr:data-url='data:originalUrl' expr:href='data:shareUrl + &quot;&amp;target=&quot; + data:platform.target' expr:onclick='data:onclick ? data:onclick : &quot;&quot;' expr:title='data:platform.shareMessage' target='_blank'>
+    <span class='share-button-link-text'>
+      <data:platform.shareMessage/>
+    </span>
+  </a>
+</b:includable>
+    <b:includable id='post' var='post'>
+  <div class='post'>
+    <b:include data='post' name='postMeta'/>
+    <b:include data='post' name='postTitle'/>
+    <b:include name='headerByline'/>
+    <b:if cond='data:view.isSingleItem'>
+      <b:include data='post' name='postBody'/>
+    <b:else/>
+      <b:include data='post' name='postBodySnippet'/>
+      <b:include data='post' name='postJumpLink'/>
+    </b:if>
+    <b:include data='post' name='postFooter'/>
+  </div>
+</b:includable>
+    <b:includable id='postAuthor'>
+  <span class='byline post-author vcard'>
+    <span class='post-author-label'>
+      <data:byline.label/>
+    </span>
+    <span class='fn'>
+      <b:if cond='data:post.author.profileUrl'>
+        <meta expr:content='data:post.author.profileUrl'/>
+        <a class='g-profile' expr:href='data:post.author.profileUrl' rel='author' title='author profile'>
+          <span><data:post.author.name/></span>
+        </a>
+      <b:else/>
+        <span><data:post.author.name/></span>
+      </b:if>
+    </span>
+  </span>
+</b:includable>
+    <b:includable id='postBody' var='post'>
+  <!-- If metaDescription is empty, use the post body as the schema.org description too, for G+/FB snippeting. -->
+  <div class='post-body entry-content float-container' expr:id='&quot;post-body-&quot; + data:post.id'>
+    <data:post.body/>
+  </div>
+</b:includable>
+    <b:includable id='postBodySnippet' var='post'>
+  <b:include data='post' name='postBody'/>
+</b:includable>
+    <b:includable id='postCommentsAndAd' var='post'>
+  <article class='post-outer-container'>
+    <!-- Post title and body -->
+    <div class='post-outer'>
+      <b:include data='post' name='post'/>
+    </div>
+
+    <!-- Comments -->
+    <b:include cond='data:view.isSingleItem' data='post' name='commentPicker'/>
+
+    <!-- Show ad inside post container, after comments, if single item. -->
+    <b:include cond='data:view.isSingleItem and data:post.includeAd' data='post' name='inlineAd'/>
+  </article>
+
+  <!-- Show ad outside post container (between posts) for feed pages. -->
+  <b:include cond='data:view.isMultipleItems and data:post.includeAd' data='post' name='inlineAd'/>
+</b:includable>
+    <b:includable id='postCommentsLink'>
+  <b:if cond='data:view.isMultipleItems'>
+    <span class='byline post-comment-link container'>
+      <b:include cond='data:post.commentSource != 1' name='commentsLink'/>
+    </span>
+  </b:if>
+</b:includable>
+    <b:includable id='postFooter' var='post'>
+  <div class='post-footer'>
+    <b:include name='footerBylines'/>
+    <b:include data='post' name='postFooterAuthorProfile'/>
+  </div>
+</b:includable>
+    <b:includable id='postFooterAuthorProfile' var='post'>
+  <b:if cond='data:post.author.aboutMe and data:view.isPost'>
+    <div class='author-profile'>
+      <b:if cond='data:post.author.authorPhoto.url'>
+        <img class='author-image' expr:src='data:post.author.authorPhoto.url' width='50px'/>
+        <div class='author-about'>
+          <b:include data='post' name='aboutPostAuthor'/>
+        </div>
+      <b:else/>
+        <b:include data='post' name='aboutPostAuthor'/>
+      </b:if>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='postHeader' var='post'>
+  <b:include name='headerByline'/>
+</b:includable>
+    <b:includable id='postJumpLink' var='post'>
+  <div class='jump-link flat-button'>
+    <a expr:href='data:post.url fragment &quot;more&quot;' expr:title='data:post.title'>
+      <b:eval expr='data:blog.jumpLinkMessage'/>
+    </a>
+  </div>
+</b:includable>
+    <b:includable id='postLabels'>
+  <span class='byline post-labels'>
+    <span class='byline-label'><data:byline.label/></span>
+    <b:loop index='i' values='data:post.labels' var='label'>
+      <a expr:href='data:label.url' rel='tag'>
+        <data:label.name/>
+      </a>
+    </b:loop>
+  </span>
+</b:includable>
+    <b:includable id='postLocation'>
+  <span class='byline post-location'>
+    <data:byline.label/>
+    <a expr:href='data:post.location.mapsUrl' target='_blank'><data:post.location.name/></a>
+  </span>
+</b:includable>
+    <b:includable id='postMeta' var='post'>
+  <b:include data='post' name='postMetadataJSON'/>
+</b:includable>
+    <b:includable id='postMetadataJSONImage'>
+  &quot;image&quot;: {
+    &quot;@type&quot;: &quot;ImageObject&quot;,
+    <b:if cond='data:post.featuredImage.isResizable'>
+    &quot;url&quot;: &quot;<b:eval expr='resizeImage(data:post.featuredImage, 1200, &quot;1200:630&quot;)'/>&quot;,
+    &quot;height&quot;: 630,
+    &quot;width&quot;: 1200
+    <b:else/>
+    &quot;url&quot;: &quot;https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/w1200/&quot;,
+    &quot;height&quot;: 348,
+    &quot;width&quot;: 1200
+    </b:if>
+  },
+</b:includable>
+    <b:includable id='postMetadataJSONPublisher'>
+ &quot;publisher&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;Blogger&quot;,
+    &quot;logo&quot;: {
+      &quot;@type&quot;: &quot;ImageObject&quot;,
+      &quot;url&quot;: &quot;https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/&quot;,
+      &quot;width&quot;: 206,
+      &quot;height&quot;: 60
+    }
+  },
+</b:includable>
+    <b:includable id='postPagination'>
+  <div class='blog-pager container' id='blog-pager'>
+    <b:include cond='data:newerPageUrl' name='previousPageLink'/>
+    <b:include cond='data:olderPageUrl' name='nextPageLink'/>
+    <b:include cond='data:view.url != data:blog.homepageUrl' name='homePageLink'/>
+  </div>
+</b:includable>
+    <b:includable id='postReactions'>
+  <!-- Reaction feature no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='postShareButtons'>
+  <div class='byline post-share-buttons goog-inline-block'>
+    <b:with value='data:sharingId ?: ((data:widget.instanceId ?: &quot;sharing&quot;) + &quot;-&quot; + (data:regionName ?: &quot;byline&quot;) + &quot;-&quot; + data:post.id)' var='sharingId'>
+      <!-- Note: 'sharingButtons' includable is from the default Sharing widget markup. -->
+      <b:include data='{                                                sharingId: data:sharingId,                                                originalUrl: data:post.url,                                                platforms: data:this.sharing.platforms,                                                shareUrl: data:post.shareUrl,                                                shareTitle: data:post.title,                                              }' name='sharingButtons'/>
+    </b:with>
+  </div>
+</b:includable>
+    <b:includable id='postTimestamp'>
+  <span class='byline post-timestamp'>
+    <data:byline.label/>
+    <b:if cond='data:post.url'>
+      <meta expr:content='data:post.url.canonical'/>
+      <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'>
+        <time class='published' expr:datetime='data:post.date.iso8601' expr:title='data:post.date.iso8601'>
+          <data:post.date/>
+        </time>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+    <b:includable id='postTitle' var='post'>
+  <a expr:name='data:post.id'/>
+  <b:if cond='data:post.title != &quot;&quot;'>
+    <h3 class='post-title entry-title'>
+      <b:if cond='data:post.link or (data:post.url and data:view.url != data:post.url)'>
+        <a expr:href='data:post.link ?: data:post.url'><data:post.title/></a>
+      <b:else/>
+        <data:post.title/>
+      </b:if>
+    </h3>
+  </b:if>
+</b:includable>
+    <b:includable id='previousPageLink'>
+  <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:messages.newerPosts'>
+    <data:messages.newerPosts/>
+  </a>
+</b:includable>
+    <b:includable id='sharingButton'>
+  <span expr:aria-label='data:platform.shareMessage' expr:class='&quot;sharing-platform-button sharing-element-&quot; + data:platform.key' expr:data-href='data:shareUrl + &quot;&amp;target=&quot; + data:platform.target' expr:data-url='data:originalUrl' expr:title='data:platform.shareMessage' role='menuitem' tabindex='-1'>
+    <b:include name='sharingPlatformIcon'/>
+    <span class='platform-sharing-text'><data:platform.name/></span>
+  </span>
+</b:includable>
+    <b:includable id='sharingButtonContent'>
+  <div class='flat-icon-button ripple'>
+    <b:include name='shareIcon'/>
+  </div>
+</b:includable>
+    <b:includable id='sharingButtons'>
+  <div class='sharing' expr:aria-owns='&quot;sharing-popup-&quot; + data:sharingId' expr:data-title='data:shareTitle'>
+    <button class='sharing-button touch-icon-button' expr:aria-controls='&quot;sharing-popup-&quot; + data:sharingId' expr:aria-label='data:messages.share.escaped' expr:id='&quot;sharing-button-&quot; + data:sharingId' role='button'>
+      <b:include name='sharingButtonContent'/>
+    </button>
+    <b:include name='sharingButtonsMenu'/>
+  </div>
+</b:includable>
+    <b:includable id='sharingButtonsMenu'>
+  <div class='share-buttons-container'>
+    <ul aria-hidden='true' class='share-buttons hidden' expr:aria-label='data:messages.share.escaped' expr:id='&quot;sharing-popup-&quot; + data:sharingId' role='menu'>
+      <b:loop values='(data:platforms ?: data:blog.sharing.platforms) filter (p =&gt; p.key not in {&quot;blogThis&quot;})' var='platform'>
+        <li>
+          <b:include name='sharingButton'/>
+        </li>
+      </b:loop>
+      <li aria-hidden='true' class='hidden'>
+        <b:include name='otherSharingButton'/>
+      </li>
+    </ul>
+  </div>
+</b:includable>
+    <b:includable id='sharingPlatformIcon'>
+  <b:include data='{ iconClass: (&quot;touch-icon sharing-&quot; + data:platform.key) }' expr:name='data:platform.key + &quot;Icon&quot;'/>
+</b:includable>
+    <b:includable id='threadedCommentForm' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:messages.postAComment/></h4>
+    <b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+      <p><data:this.messages.blogComment/></p>
+    </b:if>
+    <b:include data='post' name='commentFormIframeSrc'/>
+    <iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+    <b:includable id='threadedCommentJs' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+  <b:template-script inline='true' name='threaded_comments'/>
+  <script type='text/javascript'>
+    blogger.widgets.blog.initThreadedComments(
+        <data:post.commentJso/>,
+        <data:post.commentMsgs/>,
+        <data:post.commentConfig/>);
+  </script>
+</b:includable>
+    <b:includable id='threadedComments' var='post'>
+  <section class='comments threaded' expr:data-embed='data:post.embedCommentForm' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+    <a name='comments'/>
+
+    <b:include name='commentsTitle'/>
+
+    <div class='comments-content'>
+      <b:if cond='data:post.embedCommentForm'>
+        <b:include data='post' name='threadedCommentJs'/>
+      </b:if>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threadedCommentForm'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+      <b:if cond='data:post.showManageComments'>
+        <b:include data='post' name='manageComments'/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+  </section>
+</b:includable>
+    <b:includable id='tooltipCss'>
+  <!-- LINT.IfChange -->
+  <style>
+    .post-body a.b-tooltip-container {
+      position: relative;
+      display: inline-block;
+    }
+
+    .post-body a.b-tooltip-container .b-tooltip {
+      display: block !important;
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translate(-20%, 1px);
+      visibility: hidden;
+      opacity: 0;
+      z-index: 1;
+      transition: opacity 0.2s ease-in-out;
+    }
+
+    .post-body a.b-tooltip-container .b-tooltip iframe {
+      width: 200px;
+      height: 198px;
+      max-width: none;
+      border: none;
+      border-radius: 20px;
+      box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (hover: hover) {
+      .post-body a.b-tooltip-container:hover .b-tooltip {
+        visibility: visible;
+        opacity: 1;
+      }
+    }
+  </style>
+  <!-- LINT.ThenChange(//depot/google3/java/com/google/blogger/b2/layouts/widgets/v2-style.css) -->
+</b:includable>
+  </b:widget>
+</b:section>
+</div>
+
+</body>
+</html>
